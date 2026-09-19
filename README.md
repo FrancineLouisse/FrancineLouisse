@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francine Louisse Miranda</h1>
-<h3 align="center">Hi! I’m Francine Louisse, a BS Information Technology graduate specializing in Web and Mobile Development. I enjoy working with modern web technologies, exploring new tools, and turning ideas into functional projects. Currently, I’m growing my skills as a Software Developer while building projects that challenge me to learn and improve.</h3>
+<h1 align="left">Hi 👋, I'm Francine Louisse Miranda</h1>
+<h3 align="left">Hi! I’m Francine Louisse, a BS Information Technology graduate specializing in Web and Mobile Development. I enjoy working with modern web technologies, exploring new tools, and turning ideas into functional projects. Currently, I’m growing my skills as a Software Developer while building projects that challenge me to learn and improve.</h3>
 
 - 🌱 I’m currently learning **Node.js and Express**
 
